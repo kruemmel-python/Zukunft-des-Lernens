@@ -16,9 +16,11 @@ Mit KI-gestützten Lernplattformen könnte Wissen dynamisch vermittelt werden. L
 
 ## 3. Gesellschaftliche Hürden: Warum es so schwer ist, neue Technologien zu akzeptieren
 
-So sinnvoll der Einsatz neuer Technologien auch sein mag, es gibt oft gesellschaftliche Widerstände. Das war bereits bei der Einführung des Internets als Lernhilfe zu beobachten. Viele hatten damals Angst, dass Schüler durch den schnellen Zugang zu Informationen „verdummen“ könnten. Heute sind Wikipedia und Suchmaschinen unverzichtbare Werkzeuge für Schüler und Studierende geworden.
+So sinnvoll der Einsatz neuer Technologien auch sein mag, es gibt oft gesellschaftliche Widerstände. Das war bereits bei der Einführung des Internets als Lernhilfe zu beobachten. Viele hatten damals Angst, dass Schüler durch den schnellen Zugang zu Informationen „verdummen“ könnten. Wikipedia und die Google-Suche wurden oft als bedenklich angesehen, weil sie angeblich oberflächliches Wissen vermittelten. Doch heute sind diese Werkzeuge unverzichtbar geworden – von Grundschülern bis hin zu Professoren. Die anfängliche Skepsis ist weitgehend verflogen, und man hat erkannt, dass diese Technologien das Lernen nicht nur unterstützen, sondern auch zugänglicher machen.
 
-Ähnlich verhält es sich mit der Akzeptanz von KI. Viele Menschen sind skeptisch und halten an bewährten Methoden fest. Doch die größte Hürde für die Integration von KI liegt nicht in den technischen Möglichkeiten, sondern in der Bereitschaft der Gesellschaft, sich von alten Paradigmen zu lösen.
+Ähnlich verhält es sich heute mit der Akzeptanz von KI. Viele Menschen sind skeptisch, halten an bewährten Methoden fest und sehen KI als Bedrohung. Besonders in Deutschland gibt es immer noch massive Vorbehalte gegenüber KI-Nutzern. Oftmals wird der Einsatz von KI von Kritikern als faul oder unehrlich angesehen, was dazu führt, dass viele, die KI tatsächlich nutzen, dies nicht offen zugeben. Diese Zurückhaltung ist besonders ausgeprägt in Ländern wie Deutschland, wo kulturelle Ängste vor Kontrollverlust und Abhängigkeit tief verankert sind.
+
+Doch die größte Hürde für die Integration von KI liegt nicht in den technischen Möglichkeiten, sondern in der Bereitschaft der Gesellschaft, sich von alten Paradigmen zu lösen – genau wie es einst bei der Akzeptanz von Wikipedia und Suchmaschinen war.
 
 ## 4. KI als Schlüssel zu einer neuen Lernstruktur
 
